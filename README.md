@@ -1,60 +1,54 @@
-####HUMAN RESOURCE ANALYSIS.
+# HUMAN RESOURCE ANALYSIS.
+# Overview
+This project explores a comprehensive set of data science and machine learning techniques applied to a real-world Human Resources dataset.Through 40 questions, it covers the full analytics pipeline—exploratory data analysis (EDA) to business insights, data visualization, and dimensionality reduction using Principal Component Analysis (PCA).
+# Objectives
+Perform  EDA to understand employee attributes and organizational trends.
 
-40 Practice Questions in Data Science & Machine Learning.
+Derive business insights from salary, engagement, recruitment, and performance data.
 
-Overview.
+Create clear visualizations to communicate findings effectively.
 
-This project explores a comprehensive set of data science and machine learning techniques applied to a real-world Human Resources dataset. 
+Apply PCA and clustering to reduce dimensionality.
 
-Through 40 questions, it covers the full analytics pipeline—exploratory data analysis (EDA) to business insights, data visualization, and dimensionality reduction using Principal Component Analysis (PCA).
+Strengthen proficiency in Pandas, Seaborn, Matplotlib.
 
-Objectives.
+# Topics Covered.
 
-•	Perform  EDA to understand employee attributes and organizational trends.
+# Part A: Exploratory Data Analysis
+Dataset structure, missing values, unique counts
 
-•	Derive business insights from salary, engagement, recruitment, and performance data.
+# Part B: Business Analysis
 
-•	Create clear visualizations to communicate findings effectively.
+Salary comparisons by gender, marital status, race
 
-•	Apply PCA and clustering to reduce dimensionality.
+Recruitment source effectiveness
 
-•	Strengthen proficiency in Pandas, Seaborn, Matplotlib.
+# Part C: Data Visualization
 
-Topics Covered.
+Histograms, barplots, boxplots, heatmaps
 
-Part A: Exploratory Data Analysis
+Stacked bar charts and scatterplots for performance metrics
 
-•	Dataset structure, missing values, unique counts.
+# Part D: PCA & Clustering
 
-Part B: Business Analysis.
+Feature standardization and PCA transformation
 
-•	Salary comparisons by gender, marital status, race.
+KMeans clustering before and after PCA
 
-•	Recruitment source effectiveness.
+Use cases for PCA in HR analytics
 
-Part C: Data Visualization.
+# What I Learned.
 
-•	Histograms, barplots, boxplots, heatmaps.
+How to structure a full data science workflow from raw data to insights.
 
-•	Stacked bar charts and scatterplots for performance metrics.
+The importance of data cleaning and preprocessing before modeling.
 
-Part D: PCA & Clustering.
+How visualizations enhance interpretability and stakeholder communication.
 
-•	Feature standardization and PCA transformation.
+Practical applications of PCA in survey analysis and clustering.
 
-•	KMeans clustering before and after PCA.
+How HR metrics like satisfaction, engagement, and absences can be quantitatively analyzed to support strategic decisions.
 
-•	Use cases for PCA in HR analytics.
 
-What I Learned.
 
-•	How to structure a full data science workflow from raw data to insights.
-
-•	The importance of data cleaning and preprocessing before modeling.
-
-•	How visualizations enhance interpretability and stakeholder communication.
-
-•	Practical applications of PCA in survey analysis and clustering.
-
-•	How HR metrics like satisfaction, engagement, and absences can be quantitatively analyzed to support strategic decisions.
 
